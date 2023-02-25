@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java OOP.iml" filepath="$PROJECT_DIR$/Java OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkingWithAbstraction/WorkingWithAbstraction.iml" filepath="$PROJECT_DIR$/WorkingWithAbstraction/WorkingWithAbstraction.iml" />
     </modules>
   </component>
 </project>
