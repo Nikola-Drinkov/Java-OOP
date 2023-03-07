@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Inheritance_Exercise/Inheritance_Exercise.iml" filepath="$PROJECT_DIR$/Inheritance_Exercise/Inheritance_Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java OOP.iml" filepath="$PROJECT_DIR$/Java OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/WorkingWithAbstraction/WorkingWithAbstraction.iml" filepath="$PROJECT_DIR$/WorkingWithAbstraction/WorkingWithAbstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/WorkingWithAbstraction_Exercise/WorkingWithAbstraction_Exercise.iml" filepath="$PROJECT_DIR$/WorkingWithAbstraction_Exercise/WorkingWithAbstraction_Exercise.iml" />
     </modules>
