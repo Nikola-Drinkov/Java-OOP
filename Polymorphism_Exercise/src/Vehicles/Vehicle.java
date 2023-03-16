@@ -1,9 +1,14 @@
 package Vehicles;
 
 public abstract class Vehicle{
-    int fuelQuantity;
+    double fuelQuantity;
     double fuelConsumption;
 
-    public abstract void drive();
-    public abstract void refuel();
+    public Vehicle(double fuelQuantity, double fuelConsumption) {
+        this.fuelQuantity = fuelQuantity;
+        this.fuelConsumption = fuelConsumption;
+    }
+
+    public abstract void drive(double distance);
+    public abstract void refuel(double quantity);
 }
