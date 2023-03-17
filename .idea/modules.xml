@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation_Exercise/Encapsulation_Exercise.iml" filepath="$PROJECT_DIR$/Encapsulation_Exercise/Encapsulation_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance_Exercise/Inheritance_Exercise.iml" filepath="$PROJECT_DIR$/Inheritance_Exercise/Inheritance_Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java OOP.iml" filepath="$PROJECT_DIR$/Java OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism_Exercise/Polymorphism_Exercise.iml" filepath="$PROJECT_DIR$/Polymorphism_Exercise/Polymorphism_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrevExams/PrevExams.iml" filepath="$PROJECT_DIR$/PrevExams/PrevExams.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reflection/Reflection.iml" filepath="$PROJECT_DIR$/Reflection/Reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reflection_Exercise/Reflection_Exercise.iml" filepath="$PROJECT_DIR$/Reflection_Exercise/Reflection_Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/WorkingWithAbstraction/WorkingWithAbstraction.iml" filepath="$PROJECT_DIR$/WorkingWithAbstraction/WorkingWithAbstraction.iml" />
